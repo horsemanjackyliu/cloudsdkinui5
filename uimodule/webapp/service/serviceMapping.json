@@ -1,0 +1,7 @@
+{
+    "BpService": {
+      "directoryName": "bp-service",
+      "servicePath": "/odata/v2",
+      "npmPackageName": "bp-service"
+    }
+  }

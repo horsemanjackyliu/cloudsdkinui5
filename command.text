@@ -1,0 +1,1 @@
+generate-odata-client -s uimodule/webapp/service/serviceMapping.json --inputDir uimodule/webapp/service/ --outputDir uimodule/webapp/service/bpapi --overwrite
